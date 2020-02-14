@@ -1,2 +1,1 @@
-int a
-
+print("Hello, world!")
